@@ -4,8 +4,7 @@ Tento projekt je webová aplikace pro evidenci a správu filmů, která umožňu
 
 ## 📌 Funkcionalita
 - 📌 **Registrace a přihlášení uživatelů**  
-- 🎞 **Přidávání, úprava a mazání filmů**  
-- ⭐ **Hodnocení filmů uživateli**  
+- 🎞 **Přidávání, úprava a mazání filmů ze seznamu oblíbených**    
 - 🔐 **Správa uživatelů administrátorem**  
 - 📱 **Responzivní design**  
 
