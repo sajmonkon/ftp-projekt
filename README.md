@@ -18,6 +18,7 @@ Tento projekt je webová aplikace pro evidenci a správu filmů, která umožňu
 ER diagram obsahuje tři hlavní tabulky:  
 1. **Filmy** – ID, název, rok vydání  
 2. **Uživatelé** – ID, jméno, e-mail, heslo  
+![ER_Diagram_Filmy_Uzivatele](https://github.com/user-attachments/assets/ca25c79e-59ee-4f9a-875e-f9754be08600)
 
 
     
