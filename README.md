@@ -10,16 +10,16 @@ Tento projekt je webová aplikace pro evidenci a správu filmů, která umožňu
 - 📱 **Responzivní design**  
 
 ## 🛠 Technologie
-- **Backend:** PHP (procedurální přístup)  
-- **Databáze:** MySQL (tabulky: filmy, uživatelé, hodnocení)  
-- **Frontend:** HTML, CSS (Bootstrap), JavaScript  
-- **Hosting:** Lokální server (např. XAMPP)  
+- **Backend:** PHP   
+- **Databáze:** MySQL 
+- **Frontend:** HTML, CSS , JavaScript  
+- **Hosting:** Lokální server   
 
 ## 🗄 Návrh databáze
 ER diagram obsahuje tři hlavní tabulky:  
-1. **Filmy** – ID, název, popis, rok vydání  
-2. **Uživatelé** – ID, jméno, e-mail, heslo, role  
-3. **Hodnocení** – ID, ID filmu, ID uživatele, hodnocení, komentář  
+1. **Filmy** – ID, název, rok vydání  
+2. **Uživatelé** – ID, jméno, e-mail, heslo  
+    
 
 
 
